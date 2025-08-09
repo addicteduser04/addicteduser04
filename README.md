@@ -7,3 +7,4 @@
 - 📫 How to reach me: saifelkadiri@gmail.com
 - ⚡ Fun fact: I get work done 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=addicteduser04)](https://github.com/anuraghazra/github-readme-stats)
