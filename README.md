@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # Hi, I'm Sifeddine El Kadiri 👋
 
 **Finance & Computer Science Engineering Student @ ENSIAS**
