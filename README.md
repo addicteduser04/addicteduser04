@@ -153,7 +153,7 @@ Previously completed the Mathematics & Physics track at **CPGE Mohammed V**.
 
 ## Connect
 
-* **LinkedIn:** [Sifeddine El Kadiri](https://www.linkedin.com/in/sifeddine-el-kadiri/)
+* **LinkedIn:** [Sifeddine El Kadiri](https://www.linkedin.com/in/sifeddine-e-097235390/)
 * **GitHub:** [@addicteduser04](https://github.com/addicteduser04)
 
 ---
